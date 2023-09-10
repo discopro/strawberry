@@ -12415,7 +12415,7 @@ task.spawn(function()
 	end
 end)
 
-notify("Alert","Thank you for using StrawberryAdmin V.1")
+notify("Alert","Thank you for using StrawberryAdmin V.1 (NEW CMDS ARE KILL,KILL ALL,AND GOD")
 
 task.spawn(function()
 	wait()
